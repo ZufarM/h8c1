@@ -1,0 +1,11 @@
+
+h1{
+    background:#1c5ecf;
+    color: white;
+}
+.form-login{
+    background: #1c5ecf;
+    margin: 50px;
+    padding: 40px;
+    width: 300px;
+}
